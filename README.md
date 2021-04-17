@@ -12,10 +12,10 @@ The bot is a work in progress.
 `pip install coinbase`
 ## Import
 Store API key & secret from data.py file
-`from data import api_key, api_secret`
-data.py:
-`api_key = "exampleapi"`
-`api_secret = "examplesecret"`
+`from data import api_key, api_secret`  
+data.py:  
+`api_key = "exampleapi"`  
+`api_secret = "examplesecret"`  
 ## Usage
 The bot uses the **ticker** of the Crypto e.g. BTC = BitCoin  
 Set the currency of the Crypto e.g. 'USD'
