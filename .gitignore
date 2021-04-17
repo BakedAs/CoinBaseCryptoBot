@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# ignore data file
+# ignore data file with api keys
 data.py
 
 # C extensions
