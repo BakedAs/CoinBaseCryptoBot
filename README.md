@@ -18,7 +18,7 @@ data.py:
 `api_secret = "examplesecret"`  
 ## Usage
 The bot uses the **ticker** of the Crypto e.g. BTC = BitCoin  
-Set the currency of the Crypto e.g. 'USD'
+Set the currency of the Crypto e.g. 'USD'  
 `purchase(0.5, "BTC")`
 #### Get information on a Crypto
 `get_spot_price`
